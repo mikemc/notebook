@@ -1,0 +1,5 @@
+---
+title: "Mike McLaren's Open Research Notebook"
+site: distill::distill_website
+listing: posts
+---
